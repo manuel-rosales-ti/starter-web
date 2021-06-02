@@ -24,6 +24,12 @@ file system.
 
 ## How To Contribute
 
+Please for this repository and then issue pull request.
+
+### Copyright
+
+2014 Git.Training. All rights reserved.
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
